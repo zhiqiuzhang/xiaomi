@@ -1,4 +1,7 @@
 # xiaomi
-#模仿小米商城首页案例
-#纯html5加css3编写
- 
+imitate of xiaomi page use HTML and CSS
+
+how to use 
+
+
+git clone and cd xiaomi open index.html
